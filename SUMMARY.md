@@ -6,4 +6,7 @@
   * [读书](xue-xi-ji-hua/du-shu.md)
 * [日记](ri-ji.md)
   * [20170104](ri-ji/20170104.md)
+* [学习记录](xue-xi-ji-lu.md)
+  * [javascript](xue-xi-ji-lu/javascript.md)
+    * [jquery插件](xue-xi-ji-lu/javascript/jquerycha-jian.md)
 
