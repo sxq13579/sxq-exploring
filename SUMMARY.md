@@ -5,6 +5,7 @@
   * [javascript](xue-xi-ji-lu/javascript.md)
     * [jquery插件](xue-xi-ji-lu/javascript/jquerycha-jian.md)
   * [java](xue-xi-ji-lu/java.md)
+    * [java\_20180903\(thread\)](xue-xi-ji-lu/java/java20180903-thread.md)
 * [plan](plan.md)
   * [2018books](plan/2018book.md)
 
