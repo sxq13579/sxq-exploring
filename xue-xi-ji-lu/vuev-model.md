@@ -1,4 +1,6 @@
-https://stackoverflow.com/questions/46106037/vuex-computed-property-name-was-assigned-to-but-it-has-no-setter
+[https://stackoverflow.com/questions/46106037/vuex-computed-property-name-was-assigned-to-but-it-has-no-setter](https://stackoverflow.com/questions/46106037/vuex-computed-property-name-was-assigned-to-but-it-has-no-setter)
+
+https://stackoverflow.com/questions/47460765/vuex-vue-warn-computed-property-username-was-assigned-to-but-it-has-no-set
 
 
 
