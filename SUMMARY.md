@@ -9,6 +9,7 @@
     * [java\_20180903\(thread\)](xue-xi-ji-lu/java/java20180903-thread.md)
     * [java\_20180905\(synchronous&deadlock \)](xue-xi-ji-lu/java/java20180905-synchronousanddeadlock.md)
     * [java\_20180910\(genericity\)](xue-xi-ji-lu/java/java20180910-genericity.md)
+    * [java\_20180911](xue-xi-ji-lu/java/java20180911.md)
 * [plan](plan.md)
   * [2018books](plan/2018book.md)
 
