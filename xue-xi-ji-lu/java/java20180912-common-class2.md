@@ -56,7 +56,7 @@ add\(\)  substract\(\)  multiply\(\)  dicide\(\)  max\(\)  min\(\)  divideAndRem
 
 **BigDecimal类**
 
-add\(\)  substract\(\)  multiply\(\)  divide\(\)  
+add\(\)  substract\(\)  multiply\(\)  divide\(\)
 
 **Arrays类**（主要功能是实现数组元素得查找、数组内容的填充、排序等）
 
@@ -69,6 +69,18 @@ void sort\(int\[\] a\)
 int binarySearch\(int\[\] a, int key\)
 
 **Comparable接口**
+
+**Observer类：**
+
+addObserver\(Observer o\) ：添加一个观察者；
+
+deleteObserver\(Observer o\)： 删除一个观察者；
+
+setChanged\(\)：被观察者状态发生改变
+
+notifyObserver\(Object arg\)：通知所有观察者状态改变
+
+**Pattern类和Matcher类**（应用正则表达式必用）
 
 
 
