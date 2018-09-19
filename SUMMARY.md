@@ -20,4 +20,5 @@
   * [10月书单](plan/10yue-shu-dan.md)
   * [11月书单](plan/11yue-shu-dan.md)
   * [12月书单](plan/12yue-shu-dan.md)
+  * [9月书单](plan/9yue-shu-dan.md)
 
