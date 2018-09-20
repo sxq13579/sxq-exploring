@@ -16,6 +16,7 @@
     * [0916（合并流）](xue-xi-ji-lu/java/java0916-ff08-he-bing-liu-ff09.md)
     * [0917\(Collection/Map\)](xue-xi-ji-lu/java/java0917.md)
     * [0919\(Collections&enum\)](xue-xi-ji-lu/java/0919collections.md)
+    * [0920\(Class\)](xue-xi-ji-lu/java/0920class.md)
 * [plan](plan.md)
   * [2018books](plan/2018book.md)
   * [10月书单](plan/10yue-shu-dan.md)
