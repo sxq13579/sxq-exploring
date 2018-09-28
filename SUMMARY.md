@@ -28,4 +28,6 @@
   * [9月书单](plan/9yue-shu-dan.md)
 * [mysql](mysql.md)
   * [mysql初始化密码](mysql/mysqlchu-shi-hua-mi-ma.md)
+* [lisp](lisp.md)
+  * [豆瓣文章](lisp/dou-ban-wen-zhang.md)
 
